@@ -1,2 +1,0 @@
-Esta carpeta contiene el Jupyter Notebook con un tutorial 
-para manejar bases de datos con comandos magics.
